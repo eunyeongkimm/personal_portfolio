@@ -3,7 +3,7 @@
 **목차(Context)**
 > <h6>(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)</h6>
 
-* [1.온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안](#1-온라인-커머스몰-다잇다-매출-분석-및-cross-selling-기반-구매-촉진-방안)
+* [1. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안](#1-온라인-커머스몰-다잇다-매출-분석-및-cross-selling-기반-구매-촉진-방안)
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```scikit-learn```  ```t-test, ANOVA```  ```apriori_algorithm```
 * [2. Fastcampus 2022년 매출/강의 데이터 분석](#2-fastcampus-2022년-매출강의-데이터-분석)  
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```  ```apriori_algorithm```
@@ -14,7 +14,7 @@
 <br><hr><br>
 
 
-## 1️⃣ 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
+## 1️. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
 
@@ -54,7 +54,7 @@
 <br>
 <hr><br>
 
-## 2️⃣ Fastcampus 2022년 매출/강의 데이터 분석 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/6d0a2ff720ff2081faa6c4d6bef049ce98cf1076/commerce/Fastcampus_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8_%EB%8F%84%EC%B6%9C.ipynb)
+## 2. Fastcampus 2022년 매출/강의 데이터 분석 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/6d0a2ff720ff2081faa6c4d6bef049ce98cf1076/commerce/Fastcampus_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8_%EB%8F%84%EC%B6%9C.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/6d0a2ff720ff2081faa6c4d6bef049ce98cf1076/commerce/Fastcampus_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8_%EB%8F%84%EC%B6%9C.ipynb)
 
@@ -90,7 +90,7 @@
 <hr><br>
 
 
-## 3️⃣ 온라인 커머스몰 구매 패턴 분석 및 RFM 분석 기반 고가치 고객 맞춤 전략 도출 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
+## 3. 온라인 커머스몰 구매 패턴 분석 및 RFM 분석 기반 고가치 고객 맞춤 전략 도출 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
 
