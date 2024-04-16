@@ -11,6 +11,9 @@
 
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```  ```counter```  ```wordcloud```
 
+* [3. 온라인 커머스몰 구매 패턴 분석 및 RFM 분석 기반 고가치 고객 맞춤 전략 도출](#3-온라인-커머스몰-구매-패턴-분석-및-rfm-분석-기반-고가치-고객-맞춤-전략-도출-바로가기)
+
+```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```
 
 <br><hr><br>
 
