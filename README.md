@@ -5,9 +5,9 @@
 
 * [1. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안](#1️-온라인-커머스몰다잇다-매출-분석-및-cross-selling-기반-구매-촉진-방안-바로가기)
 
-```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```scikit-learn```  ```t-test, ANOVA```  ```apriori_algorithm```
-* [2. Fastcampus 2022년 매출/강의 데이터 분석](#2-fastcampus-2022년-매출강의-데이터-분석)  
-```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```  ```apriori_algorithm```
+```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```scikit-learn```  ```t-test, ANOVA```  ```apriori```  ```association_rules``` ```networkx``` ```PyARMViz```
+*  [2. Fastcampus 2022년 매출/강의 데이터 분석](#2-fastcampus-2022년-매출강의-데이터-분석-바로가기)
+```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```  ```counter```  ```wordcloud```
 
 
 <br><hr><br>
