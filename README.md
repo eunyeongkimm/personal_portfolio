@@ -4,17 +4,15 @@
 > <h6>(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)</h6>
 
 * [1. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안](#1-온라인-커머스몰-다잇다-매출-분석-및-cross-selling-기반-구매-촉진-방안)
+
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```scikit-learn```  ```t-test, ANOVA```  ```apriori_algorithm```
 * [2. Fastcampus 2022년 매출/강의 데이터 분석](#2-fastcampus-2022년-매출강의-데이터-분석)  
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```  ```apriori_algorithm```
-* [3.프로젝트 C](#3-프로젝트-c)  
-```프로젝트 C는 OOO을 위한 목표를 가지고 진행한 ML 프로젝트입니다.```
 
 
 <br><hr><br>
 
-
-## 1️. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
+## 1. 온라인 커머스몰 다잇다 매출 분석 및 cross-selling 기반 구매 촉진 방안 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
 
