@@ -43,8 +43,7 @@
 
 ## 2️⃣ 온라인 커머스몰 구매 패턴 분석 및 RFM 분석 기반 고가치 고객 맞춤 전략 도출 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
 
 * 문제 정의 
 ```
