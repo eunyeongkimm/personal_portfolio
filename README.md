@@ -3,7 +3,8 @@
 **목차(Context)**
 > <h6>(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)</h6>
 
-* [1. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안](#1-온라인-커머스몰다잇다-매출-분석-및-cross-selling-기반-구매-촉진-방안)
+* [1. 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안](#1️-온라인-커머스몰다잇다-매출-분석-및-cross-selling-기반-구매-촉진-방안-바로가기)
+
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```scikit-learn```  ```t-test, ANOVA```  ```apriori_algorithm```
 * [2. Fastcampus 2022년 매출/강의 데이터 분석](#2-fastcampus-2022년-매출강의-데이터-분석)  
 ```numpy``` ```pandas```  ```matplotlib```   ```seaborn```   ```plotly```  ```t-test, ANOVA```  ```apriori_algorithm```
