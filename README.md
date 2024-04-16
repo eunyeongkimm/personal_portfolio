@@ -1,5 +1,7 @@
 # personal_project
 
+
+
 ## 1️⃣ 온라인 커머스몰('다잇다') 매출 분석 및 cross-selling 기반 구매 촉진 방안 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/04675a34fe46e7e0ef2e3db8f47ba2f725fe1643/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0(%EB%8B%A4%EC%9E%87%EB%8B%A4)%EC%9D%98_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_cross_selling%EC%9D%84_%ED%86%B5%ED%95%9C_%EA%B5%AC%EB%A7%A4_%EC%A6%9D%EB%8C%80_%EB%B0%A9%EC%95%88.ipynb)
@@ -40,8 +42,43 @@
 <br>
 <hr><br>
 
+## 2️⃣ Fastcampus 2022년 매출/강의 데이터 분석 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/6d0a2ff720ff2081faa6c4d6bef049ce98cf1076/commerce/Fastcampus_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8_%EB%8F%84%EC%B6%9C.ipynb)
 
-## 2️⃣ 온라인 커머스몰 구매 패턴 분석 및 RFM 분석 기반 고가치 고객 맞춤 전략 도출 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/6d0a2ff720ff2081faa6c4d6bef049ce98cf1076/commerce/Fastcampus_%EB%A7%A4%EC%B6%9C_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8_%EB%8F%84%EC%B6%9C.ipynb)
+
+
+* 문제 정의 
+```
+· 마케팅 전략 수립을 위한 고객 segmentation 필요
+```
+
+* 프로젝트 내용
+```
+[EDA]
+· 강의별 첫번째/마지막 신청 유저 및 날짜(SQL- FIRST_VALUE, LAST_VALUE, PARTITION BY 이용)
+· 월별 매출액 합계 및 전달 대비 증가율(SQL - LEAD, LAG)
+· 매출액 경향성 분석(월별 트렌드, 주말 vs 주중 등)
+· 회원가입 경향성 분석
+· 강의별 상위 출현 키워드/환불 횟수
+
+[RFM 분석 기반 고객 segmentation]
+· RFM Scoring 및 9가지 고객군으로 분류
+```
+
+[> Tableau - 대시보드 바로가기](https://public.tableau.com/app/profile/eunyeong.kim/viz/fastcampuscustomersegmentation-rfm/1)
+
+![Tableau - 대시보드](https://github.com/eunyeongkimm/personal_project/assets/101814174/d280972c-11cd-4ab4-9a89-1ada6d66dfbe)
+
+
+* 결론
+```
+· 작성 예정
+```
+<br>
+<hr><br>
+
+
+## 3️⃣ 온라인 커머스몰 구매 패턴 분석 및 RFM 분석 기반 고가치 고객 맞춤 전략 도출 [>바로가기](https://github.com/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunyeongkimm/personal_project/blob/441f0721c40672537e07c9a1ab86f1c0a875dfed/commerce/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%AA%B0_%EA%B5%AC%EB%A7%A4_%ED%8C%A8%ED%84%B4_%EB%B6%84%EC%84%9D_%EB%B0%8F_RFM_%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%B0%98_%EA%B3%A0%EA%B0%80%EC%B9%98%EA%B3%A0%EA%B0%9D_%EB%8F%84%EC%B6%9C.ipynb)
 
